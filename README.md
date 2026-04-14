@@ -53,7 +53,7 @@ A target feature named `dropout_confidense` was engineered to represent the esti
 | --------------- | ------------------------------ |
 | Language        | Python                         |
 | ML Models       | Scikit-learn, TensorFlow/Keras |
-| Web Framework   | FastAPI                        |
+| Web Framework   | MERN Stack, Tailwind CSS,FastAPI                        |
 | Deployment      | Docker                         |
 | Data Processing | Pandas, NumPy, Scikit-learn    |
 
